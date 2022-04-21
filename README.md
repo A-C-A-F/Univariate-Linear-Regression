@@ -9,7 +9,7 @@ In this project I will implement linear regression with one variable (univariate
 3. Create data visualizations and plots using matplotlib.
 
 
-Below is the summary of the tasks performed in this project:
+### Below is the summary of the tasks performed in this project:
 - Task 1: Load the Data and Libraries
 -	Task 2: Visualize the Data
 -	Task 3: Compute the Cost 𝐽(𝜃)
