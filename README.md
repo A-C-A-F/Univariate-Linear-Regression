@@ -1,5 +1,5 @@
 # Univariate-Linear-Regression
-Linear Regression with NumPy and Python.
+Linear Regression with __NumPy__ and __Python__.
 
 In this project I will implement linear regression with one variable (univariate) to predict the profit for a bike-sharing company.
 
