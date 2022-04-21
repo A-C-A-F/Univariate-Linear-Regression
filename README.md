@@ -2,7 +2,8 @@
 Linear Regression with NumPy and Python.
 
 In this project I will implement linear regression with one variable (univariate) to predict the profit for a bike-sharing company.
-The three main learning objectives in this project are the following:
+
+### My objective in this project is to learn the following skills:
 1. Implement the gradient descent algorithm from scratch.
 2. Perform univariate linear regression with Numpy and Python.
 3. Create data visualizations and plots using matplotlib.
